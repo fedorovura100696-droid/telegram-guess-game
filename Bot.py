@@ -5,7 +5,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import threading
 from aiogram import Bot, Dispatcher, types
 
-TOKEN = "9030023964:AAELWpJwPKvnDNpSQ6rP6fTGkOyzC3L0Ho"
+TOKEN = "9030023964:AAELwPjwPKvnDNpSQ6rP6fTGkOyCuz3L0Ho"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
